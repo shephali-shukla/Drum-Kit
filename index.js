@@ -1,11 +1,14 @@
-//this loop can create problems in case we add more buttons to website.
-var totalDrumButtons = document.querySelectorAll("button").length;
-for(var i=0;i<totalDrumButtons;i++){
+var totalDrumButtons = document.querySelectorAll(".drum").length;
 
-document.querySelectorAll("button")[i].addEventListener("click", function (){
-    alert("i got clicked");
+var i = 0;
 
-});
+while(i < totalDrumButtons){
+    document.querySelectorAll("button")[i].addEventListener("click", function (){
+        alert("i got clicked");
+    
+    });
+    
+    i++;
 
 }
 
