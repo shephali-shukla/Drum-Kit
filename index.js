@@ -1,7 +1,7 @@
-//event listener for FIRST button: every time it gets clicked 
-document.querySelector("button").addEventListener("click", buttonClick);
-
-//method: what to perform when clicked
-function buttonClick(){
+//listener can be replaced with anonymous function(function with no name)
+document.querySelector("button").addEventListener("click", function (){
     alert("i got clicked");
-}
+});
+
+
+
