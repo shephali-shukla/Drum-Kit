@@ -23,8 +23,8 @@ w - tom-1
 a - tom-2
 s - tom-3
 d - tom-4
-j - snare
-k - crash
+k - snare
+j - crash
 l - kick
 
 <hr>
