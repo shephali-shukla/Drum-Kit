@@ -2,8 +2,6 @@
 
 This is a simple drum kit website that allows you to play sounds of different components of a drum kit using mouse clicks or keyboard presses. It's built using HTML, CSS, and vanilla JavaScript.
 
-<hr>
-
 # Installation
 
 To run the drum kit website, simply download the project files and open the index.html file in your web browser.
@@ -11,7 +9,6 @@ To run the drum kit website, simply download the project files and open the inde
 Alternatively, you can clone the repository using Git by running the following command in your terminal:
 
 `git clone https://github.com/shephali-shukla/Drum-Kit`
-<hr>
 
 # Usage
 
@@ -26,8 +23,6 @@ d - tom-4
 k - snare
 j - crash
 l - kick
-
-<hr>
 
 # Credit
 
